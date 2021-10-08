@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akash123k 
+- 👋 Hi, I’m @Akash123k (akash gautam kamble) 
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Bachelor of computer science
 - 💞️ I’m looking to collaborate on ...
